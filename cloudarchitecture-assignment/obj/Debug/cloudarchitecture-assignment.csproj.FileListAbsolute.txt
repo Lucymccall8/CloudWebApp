@@ -1,0 +1,7 @@
+C:\Users\Lucy\source\repos\cloudarchitecture-assignment\bin\cloudarchitecture-assignment.dll.config
+C:\Users\Lucy\source\repos\cloudarchitecture-assignment\bin\cloudarchitecture-assignment.dll
+C:\Users\Lucy\source\repos\cloudarchitecture-assignment\bin\cloudarchitecture-assignment.pdb
+C:\Users\Lucy\source\repos\cloudarchitecture-assignment\obj\Debug\cloudarchitecture-assignment.csprojAssemblyReference.cache
+C:\Users\Lucy\source\repos\cloudarchitecture-assignment\obj\Debug\cloudarchitecture-assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lucy\source\repos\cloudarchitecture-assignment\obj\Debug\cloudarchitecture-assignment.dll
+C:\Users\Lucy\source\repos\cloudarchitecture-assignment\obj\Debug\cloudarchitecture-assignment.pdb

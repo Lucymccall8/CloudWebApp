@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="cloudarchitecture_assignment.Service1" CodeBehind="BMICalc.svc.cs" %>
